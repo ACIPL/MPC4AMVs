@@ -7,4 +7,4 @@ The development is continued at the Applied control and information processing l
 
 
 # Citing MPC4AMVs 
-Shi, Yang, Shen, Chao, Wei, Henglai, and Zhang, Kunwu, 2022. Advanced Model Predictive Control for Autonomous Marine Vehicels, Springer.
+Yang Shi, Chao Shen, Henglai Wei, and Kunwu Zhang, 2022. Advanced Model Predictive Control for Autonomous Marine Vehicels, Springer.
