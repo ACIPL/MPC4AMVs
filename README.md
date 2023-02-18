@@ -6,5 +6,5 @@ MPC4AMVs enables the efficient formulation and solution of control problems for 
 The development is continued at the Applied control and information processing laboratory (ACIPL) of the University of Victoria.
 
 
-# Citing MPC4AMVs 
+# Citing MPC4AMV 
 Y. Shi, C. Shen, H. Wei, and K. Zhang, Advanced Model Predictive Control for Autonomous Marine Vehicles, Springer Nature, 2023, In Press, ISBN 978-3-031-19353-8.
